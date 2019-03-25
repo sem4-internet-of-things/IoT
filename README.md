@@ -5,7 +5,10 @@ A collection of repositories from the course Internet of Things
 MQTT:  
 [Link Here]()  
 
-Traficlight:  
+Traficlight, Non-Blocking:    
+[Link Here]()  
+
+3D Print:   
 [Link Here]()  
 
 ## SmartMirror Project
