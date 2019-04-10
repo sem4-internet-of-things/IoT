@@ -14,5 +14,5 @@ https://github.com/sem4-internet-of-things/3D-Print
 Libraries:  
 https://github.com/sem4-internet-of-things/Arduino-IDE-Library  
 
-## SmartMirror Proje[Link Here]()  ct
+## SmartMirror Project
 Github Repo: https://github.com/sem4-internet-of-things/SmartMirror  
